@@ -1,0 +1,1 @@
+kitty zsh git neovim helix yazi fzf fd bat ripgrep ttf-jetbrains-mono-nerd
